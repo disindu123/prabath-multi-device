@@ -8,7 +8,7 @@
 
 ---
 
-### Deploy Your Own **PRABATH-MD Bot**  
+### Deploy Your Own **Bot**  
 
 <p align="center">  
   <a href="https://prabathmd-official.vercel.app/">  
@@ -19,7 +19,7 @@
 
 ### Fork This Repository  
 
-[![Fork whatsapp md](https://img.shields.io/badge/FORK%20-PRABATH%20MD-white?style=for-the-badge)](https://github.com/prabathLK/prabath-multi-device/fork)  
+[![Fork whatsapp md](https://img.shields.io/badge/FORK%20-Whatsapp%20MD-white?style=for-the-badge)](https://github.com/prabathLK/prabath-multi-device/fork)  
 
 ---
 
