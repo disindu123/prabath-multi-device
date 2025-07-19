@@ -1,4 +1,4 @@
-# PRABATH-MD 👨‍💻 🇱🇰    
+# WHATSAPP-MD 👨‍💻 🇱🇰    
 
 <p align="center">  
   <a href="https://i.postimg.cc/8zRCGdNT/IMG-20250602-WA0030.jpg">
@@ -12,7 +12,7 @@
 
 <p align="center">  
   <a href="https://prabathmd-official.vercel.app/">  
-    <img src="https://img.shields.io/badge/DEPLOY-CLICK%20HERE-brightgreen?style=for-the-badge&logo=whatsapp" alt="Deploy PRABATH-MD">  
+    <img src="https://img.shields.io/badge/DEPLOY-CLICK%20HERE-brightgreen?style=for-the-badge&logo=whatsapp" alt="Deploy whatsapp bot">  
   </a>  
 </p>  
 
