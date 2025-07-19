@@ -19,7 +19,7 @@
 
 ### Fork This Repository  
 
-[![Fork PRABATH-MD](https://img.shields.io/badge/FORK%20-PRABATH%20MD-white?style=for-the-badge)](https://github.com/prabathLK/prabath-multi-device/fork)  
+[![Fork whatsapp md](https://img.shields.io/badge/FORK%20-PRABATH%20MD-white?style=for-the-badge)](https://github.com/prabathLK/prabath-multi-device/fork)  
 
 ---
 
